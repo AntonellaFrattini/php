@@ -5,7 +5,7 @@
     <title>Primer php</title>
   </head>
   <body>
-    <?php echo "Paco es un CAMPEON!!!!";
+    <?php echo "Que campeón eres PACO!!!!";
      ?>
   </body>
 </html>
